@@ -18,9 +18,6 @@ module.exports = function(config) {
           './services/users/user.spec.js'
     ],
 
-    junitReporter = {
-      outputFile: 'test-results.xml'
-    },
     // list of files to exclude
     exclude: [
     ],
