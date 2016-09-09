@@ -1,0 +1,26 @@
+{
+  "name": "karmapoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larse514/KarmaPOC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larse514/KarmaPOC/issues"
+  },
+  "homepage": "https://github.com/larse514/KarmaPOC#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.5.1",
+    "karma": "^1.2.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.2"
+  }
+}
