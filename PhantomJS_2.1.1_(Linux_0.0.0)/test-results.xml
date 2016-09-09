@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<testsuite name="PhantomJS 2.1.1 (Linux 0.0.0)" package="" timestamp="2016-09-09T03:07:48" id="0" hostname="ip-172-31-40-141" tests="1" errors="1" failures="1" time="0.001">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
+  </properties>
+  <testcase name="Users factory has a dummy spec to test 2 + 2" time="0.001" classname="PhantomJS_2_1_1_(Linux_0_0_0).Users factory">
+    <failure type="">Expected undefined to equal 4.
+services/users/user.spec.js:5:21
+loaded@http://localhost:9876/context.js:151:17
+</failure>
+  </testcase>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
